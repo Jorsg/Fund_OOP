@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Repos\\repos\\Fundamentals_OOP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2D43D81B-5C72-42A3-ABD2-8712A7DCABB5}|Fund_OOP_Python\\Fund_OOP_Python.pyproj|D:\\Repos\\repos\\Fundamentals_OOP\\Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2D43D81B-5C72-42A3-ABD2-8712A7DCABB5}|Fund_OOP_Python\\Fund_OOP_Python.pyproj|solutionrelative:Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|d:\\repos\\repos\\fundamentals_oop\\fundamentals_oop\\oop\\abstraction\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|solutionrelative:fundamentals_oop\\oop\\abstraction\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|d:\\repos\\repos\\fundamentals_oop\\fundamentals_oop\\oop\\abstraction\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|solutionrelative:fundamentals_oop\\oop\\abstraction\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,12 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -39,45 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Abstraction.py",
-              "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py",
-              "RelativeDocumentMoniker": "Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py",
-              "ToolTip": "D:\\Repos\\repos\\Fundamentals_OOP\\Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py",
-              "RelativeToolTip": "Fund_OOP_Python\\OOP\\Abstraction\\Abstraction.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-02-15T02:52:14.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
-              "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
-              "ToolTip": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
-              "RelativeToolTip": "Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T02:48:08.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Circle.cs",
-              "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\Circle.cs",
-              "ToolTip": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Circle.cs",
-              "RelativeToolTip": "Fundamentals_OOP\\OOP\\Abstraction\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T02:48:02.983Z",
-              "EditorCaption": ""
             }
           ]
         }
