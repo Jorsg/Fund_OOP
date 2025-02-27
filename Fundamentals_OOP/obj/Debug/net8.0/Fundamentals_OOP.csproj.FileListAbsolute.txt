@@ -1,0 +1,15 @@
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\bin\Debug\net8.0\Fundamentals_OOP.exe
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\bin\Debug\net8.0\Fundamentals_OOP.deps.json
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\bin\Debug\net8.0\Fundamentals_OOP.runtimeconfig.json
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\bin\Debug\net8.0\Fundamentals_OOP.dll
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\bin\Debug\net8.0\Fundamentals_OOP.pdb
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.AssemblyInfoInputs.cache
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.AssemblyInfo.cs
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.csproj.CoreCompileInputs.cache
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.sourcelink.json
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.dll
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\refint\Fundamentals_OOP.dll
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.pdb
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\Fundamentals_OOP.genruntimeconfig.cache
+D:\Repos\repos\Fundamentals_OOP\Fundamentals_OOP\obj\Debug\net8.0\ref\Fundamentals_OOP.dll

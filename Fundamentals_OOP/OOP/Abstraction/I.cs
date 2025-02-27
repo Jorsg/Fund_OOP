@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Fundamentals_OOP.OOP.Abstraction
 {
-	// Abstrac Class representing a geometric shape
-	abstract class Shape
+	interface I
 	{
-		// Abstract method for calculating the area
-		public abstract double GetArea();
+		void Method1();
+		void Method2();
 	}
 }
