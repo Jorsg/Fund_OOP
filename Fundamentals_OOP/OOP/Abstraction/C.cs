@@ -6,22 +6,8 @@ using System.Threading.Tasks;
 
 namespace Fundamentals_OOP.OOP.Abstraction
 {
-	class Circle : Shape, I
+	abstract class C : I
 	{
-		private double radio;
-
-		// Constructor
-		public Circle(double radio)
-		{
-			this.radio = radio;
-		}
-
-		// Implementating the abstract method for calculating the área of a circle
-		public override double GetArea()
-		{
-			return Math.PI * radio * radio;
-		}
-
 		public void Method1()
 		{
 			Console.WriteLine("Method1");

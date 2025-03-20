@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Repos\\repos\\Fundamentals_OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|d:\\repos\\repos\\fundamentals_oop\\fundamentals_oop\\oop\\inheritance\\fatherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|solutionrelative:fundamentals_oop\\oop\\inheritance\\fatherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|d:\\repos\\repos\\fundamentals_oop\\fundamentals_oop\\csharp_reference\\readonly\\samplepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4E8535-9D7D-45B3-8EE6-C1E4A7A5AA1C}|Fundamentals_OOP\\Fundamentals_OOP.csproj|solutionrelative:fundamentals_oop\\csharp_reference\\readonly\\samplepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,23 +67,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FatherClass.cs",
-              "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Inheritance\\FatherClass.cs",
-              "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Inheritance\\FatherClass.cs",
-              "ToolTip": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Inheritance\\FatherClass.cs",
-              "RelativeToolTip": "Fundamentals_OOP\\OOP\\Inheritance\\FatherClass.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:42:16.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SamplePoint.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\CSharp_Reference\\Readonly\\SamplePoint.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\CSharp_Reference\\Readonly\\SamplePoint.cs",
@@ -100,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Age.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\CSharp_Reference\\Readonly\\Age.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\CSharp_Reference\\Readonly\\Age.cs",
@@ -108,11 +87,16 @@
               "RelativeToolTip": "Fundamentals_OOP\\CSharp_Reference\\Readonly\\Age.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T21:01:29.052Z"
+              "WhenOpened": "2025-02-27T21:01:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TestOverride.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\CSharp_Reference\\Override\\TestOverride.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\CSharp_Reference\\Override\\TestOverride.cs",
@@ -120,11 +104,12 @@
               "RelativeToolTip": "Fundamentals_OOP\\CSharp_Reference\\Override\\TestOverride.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:20:00.561Z"
+              "WhenOpened": "2025-02-27T20:20:00.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\CSharp_Reference\\Override\\Shape.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\CSharp_Reference\\Override\\Shape.cs",
@@ -132,11 +117,12 @@
               "RelativeToolTip": "Fundamentals_OOP\\CSharp_Reference\\Override\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:16:26.275Z"
+              "WhenOpened": "2025-02-27T20:16:26.275Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\Program.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\Program.cs",
@@ -144,11 +130,12 @@
               "RelativeToolTip": "Fundamentals_OOP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:20:40.939Z"
+              "WhenOpened": "2025-02-27T00:20:40.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Geometric.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Geometric.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Geometric.cs",
@@ -160,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "BaseClass.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\BaseClass.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\BaseClass.cs",
@@ -172,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "C.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\C.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\C.cs",
@@ -184,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Square.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Square.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\Square.cs",
@@ -192,11 +179,12 @@
               "RelativeToolTip": "Fundamentals_OOP\\OOP\\Abstraction\\Square.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:19:51.68Z"
+              "WhenOpened": "2025-02-27T00:19:51.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\Repos\\repos\\Fundamentals_OOP\\Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
               "RelativeDocumentMoniker": "Fundamentals_OOP\\OOP\\Abstraction\\Shape.cs",
